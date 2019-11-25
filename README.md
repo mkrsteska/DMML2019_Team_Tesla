@@ -13,7 +13,7 @@ Our data come from Spotify using their API.
 Spotify allows us to collect only information about a song.
 
 More information about the data we collected:  
-https://developer.spotify.com/documentation/web-api/reference/object-model/
+https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
 
 To get the lyrics of a song, we used other APIs:
 - genius.com
