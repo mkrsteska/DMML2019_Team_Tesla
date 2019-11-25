@@ -1,6 +1,6 @@
 # DMML2019_Team_Tesla
-The repo for the project of DM ML course
-Master information systems - HEC Lausanne - 2019
+The repo for the project of DM ML course  
+Master: Information Systems - HEC Lausanne - 2019
 
 ## Data mining:
 
