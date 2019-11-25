@@ -35,4 +35,4 @@ We would like the machine to predict:
 mkrsteska : Marija Krsteska  
 thil5 : Samuel Lew  
 Martynas2 : Martynas Savickas  
- : Yassin Hediger
+yassinhediger: Yassin Hediger
