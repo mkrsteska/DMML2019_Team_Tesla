@@ -6,7 +6,8 @@ Master: Information Systems - HEC Lausanne - 2019
 
 Our data come from Spotify using their API.
 
-- We got the Top Hits from Spotify using their API from 1970 to 2018.
+- We got the Top Hits from Spotify using their API from 1970 to 2018. 
+  link: https://open.spotify.com/playlist/3cS7RrbJgQPEiWPAyOnb4l?si=qbUDHQRGTHSgN99Yp6mBlA
 - We also collected other songs produced in every decade from 1970 to 2018.
 
 Spotify allows us to collect only information about a song.
