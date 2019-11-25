@@ -11,8 +11,7 @@ Our data come from Spotify using their API.
 
 Spotify allows us to collect only information about a song.
 
-More information about the data we collected:
-
+More information about the data we collected:  
 https://developer.spotify.com/documentation/web-api/reference/object-model/
 
 To get the lyrics of a song, we used other APIs:
@@ -33,10 +32,7 @@ We would like the machine to predict:
 
 ## The team:
 
-mkrsteska : Marija Krsteska
-
-thil5 : Samuel Lew
-
-Martynas2 : Martynas Savickas
-
+mkrsteska : Marija Krsteska  
+thil5 : Samuel Lew  
+Martynas2 : Martynas Savickas  
  : Yassin Hediger
