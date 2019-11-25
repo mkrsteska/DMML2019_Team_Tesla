@@ -1,5 +1,5 @@
 # DMML2019_Team_Tesla
-the repo for the project of DM ML course
+The repo for the project of DM ML course
 Master information systems - HEC Lausanne - 2019
 
 ## Data mining:
@@ -7,11 +7,12 @@ Master information systems - HEC Lausanne - 2019
 Our data come from Spotify using their API.
 
 - We got the Top Hits from Spotify using their API from 1970 to 2018.
-- We also collected other songs produced every decade from 1970 to 2018.
+- We also collected other songs produced in every decade from 1970 to 2018.
 
 Spotify allows us to collect only information about a song.
 
-More information about the data we collected: 
+More information about the data we collected:
+
 https://developer.spotify.com/documentation/web-api/reference/object-model/
 
 To get the lyrics of a song, we used other APIs:
@@ -33,6 +34,9 @@ We would like the machine to predict:
 ## The team:
 
 mkrsteska : Marija Krsteska
+
 thil5 : Samuel Lew
+
 Martynas2 : Martynas Savickas
+
  : Yassin Hediger
