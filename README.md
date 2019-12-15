@@ -15,7 +15,7 @@ Spotify allows us to collect only information about a song.
 More information about the data we collected:  
 https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
 
-To get the lyrics of a song, we used other APIs:
+To get the lyrics of a song, we scraped the follwoing websites:
 - genius.com
 - lyricsmode.com
 - songlyrics.com
@@ -23,13 +23,7 @@ To get the lyrics of a song, we used other APIs:
 
 ## Machine learning:
 
-We would like the machine to predict:
-
-- Based on a song lyrics predict if the song is a hit or not.
-- Based on a song lyrics predict the mood of the song.
-- ...
-
-
+We would like to predict whether a song will be a hit or not, based on lyrics and audio features.
 
 ## The team:
 
