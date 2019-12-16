@@ -2,6 +2,8 @@
 The repo for the project of DM ML course  
 Master: Information Systems - HEC Lausanne - 2019
 
+Video: https://www.youtube.com/watch?v=UdqfCPRODcw&t=180s
+
 Structure of the project
 
 code
