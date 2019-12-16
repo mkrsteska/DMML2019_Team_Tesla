@@ -20,7 +20,7 @@ data
 - top_hits_merged_clean_lyrics_audio_features.json
 - not_hits_merged_clean_lyrics_audio_features.json
 
-## In order to run the notebooks, please download the GloVe model from this link: https://drive.google.com/open?id=126qGJC9o1da-_deqGwfN6iyuU2S0AtMa and place them in data folder.
+#### In order to run the notebooks, please download the GloVe model from this link: https://drive.google.com/open?id=126qGJC9o1da-_deqGwfN6iyuU2S0AtMa and place them in data folder.
 
 ## Data mining:
 
