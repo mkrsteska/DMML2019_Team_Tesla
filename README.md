@@ -2,6 +2,26 @@
 The repo for the project of DM ML course  
 Master: Information Systems - HEC Lausanne - 2019
 
+Structure of the project
+
+code
+- 1. Download Spotify Data (don’t run this notebook)
+- 2. Download Lyrics (don’t run this notebook)
+- 3. Cleaning Lyrics (don’t run this notebook)
+- 4. Exploratory Data Analysis - Spotify Audio Features
+- 5. Exploratory Data Analysis - Lyrics
+- 6. Classification
+- 7. Clustering
+- 8. Glove model 
+
+data
+- top_hits.json
+- songs.json
+- top_hits_merged_clean_lyrics_audio_features.json
+- not_hits_merged_clean_lyrics_audio_features.json
+
+## In order to run the notebooks, please download the GloVe model from this link: https://drive.google.com/open?id=126qGJC9o1da-_deqGwfN6iyuU2S0AtMa and place them in data folder.
+
 ## Data mining:
 
 Our data come from Spotify using their API.
